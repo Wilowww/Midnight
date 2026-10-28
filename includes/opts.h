@@ -1,6 +1,6 @@
 #pragma once
 
-constexpr const char *BACKEND_URL = "http://26.233.247.49:3551";
+constexpr const char *BACKEND_URL = "http://209.25.140.16:22900";
 static const char* EPIC_DOMAINS[] = {
     "game-social.epicgames.com",
     "ol.epicgames.com",
